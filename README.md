@@ -2,7 +2,7 @@
 
 curso de CSS Grid: simplificando layouts. 
 
-# MK8--- Alura Store
+# MK9--- Alura Store
 
 This project has been made it for upgrade my own abilities 
 
